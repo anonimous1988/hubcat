@@ -1,0 +1,311 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-id="24Horas" tvg-logo="https://zosting.com/wp-content/uploads/2017/06/24x7-300x292.png" group-title="24horas" tvg-name="24h",24h Caillou
+http://zufreelist.net:8080/aerfv/aerf/872
+
+#EXTINF:-1 tvg-id="2" tvg-id="24Horas" tvg-logo="https://zosting.com/wp-content/uploads/2017/06/24x7-300x292.png" group-title="24horas" tvg-name="24h",24h Los Simpson
+http://zufreelist.net:8080/aerfv/aerf/877
+
+#EXTINF:-1 tvg-id="3" tvg-id="24Horas" tvg-logo="https://zosting.com/wp-content/uploads/2017/06/24x7-300x292.png" group-title="24horas" tvg-name="24h",24h El Chavo del 8
+http://zufreelist.net:8080/aerfv/aerf/897
+
+#EXTINF:-1 tvg-id="4" tvg-id="24Horas" tvg-logo="https://zosting.com/wp-content/uploads/2017/06/24x7-300x292.png" group-title="24horas" tvg-name="24h",24h EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/aerfv/aerf/899
+
+#EXTINF:-1 tvg-id="5" tvg-id="24Horas" tvg-logo="https://zosting.com/wp-content/uploads/2017/06/24x7-300x292.png" group-title="24horas" tvg-name="24h",24h PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/aerfv/aerf/921
+
+#EXTINF:-1 tvg-id="6" tvg-id="24Horas" tvg-logo="https://zosting.com/wp-content/uploads/2017/06/24x7-300x292.png" group-title="24horas" tvg-name="24h",24h PEPPA PIG
+http://zufreelist.net:8080/aerfv/aerf/922
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US777CINEMAXACTIONMAXHD.png" group-title="CINEMA" tvg-name="JR",CINEMAX SD
+http://zufreelist.net:8080/aerfv/aerf/7
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="CINEMA" tvg-name="JR",FOX ACTION SD
+http://zufreelist.net:8080/aerfv/aerf/11
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://ocdn.eu/images/program-tv/NjI7MDA_/496acc41010dcd111385a01d6e8edc45.png" group-title="CINEMA" tvg-name="JR",FOX COMEDY SD
+http://zufreelist.net:8080/aerfv/aerf/15
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FOX_Family_HD.png/1200px-FOX_Family_HD.png" group-title="CINEMA" tvg-name="JR",FOX FAMYLY SD
+http://zufreelist.net:8080/aerfv/aerf/16
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fox_Movies_logo.svg/1280px-Fox_Movies_logo.svg.png" group-title="CINEMA" tvg-name="JR",FOX MOVIES SD
+http://zufreelist.net:8080/aerfv/aerf/17
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="CINEMA" tvg-name="JR",FX SD
+http://zufreelist.net:8080/aerfv/aerf/73
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527252/FOX_Series_HD.png" group-title="CINEMA" tvg-name="JR",FOX SERIES SD
+http://zufreelist.net:8080/aerfv/aerf/18
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.goldenpremier2020.png.2024c621ca5d1e6b0488da33f5375ff6.png" group-title="CINEMA" tvg-name="JR",GOLDEN PREMIER
+http://zufreelist.net:8080/aerfv/aerf/19
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="CINEMA" tvg-name="JR",GOLDEN SD
+http://zufreelist.net:8080/aerfv/aerf/20
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA141HBO1.png" group-title="CINEMA" tvg-name="JR",HBO 1 SD
+http://zufreelist.net:8080/aerfv/aerf/21
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA142HBO2.png" group-title="CINEMA" tvg-name="JR",HBO 2 SD
+http://zufreelist.net:8080/aerfv/aerf/22
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR188HbofamilySD.png" group-title="CINEMA" tvg-name="JR",HBO Family SD
+http://zufreelist.net:8080/aerfv/aerf/23
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png" group-title="CINEMA" tvg-name="JR",HBO MUNDI
+http://zufreelist.net:8080/aerfv/aerf/24
+
+#EXTINF:-1 tvg-id="" tvg-id="http://www.tvboxgroup.com/iptv/logo/BR/BR191HboPlusFHD.png" tvg-logo="" group-title="CINEMA" tvg-name="JR",HBO Plus SD
+http://zufreelist.net:8080/aerfv/aerf/25
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR196HboXtremeFHD.png" group-title="CINEMA" tvg-name="JR",HBO XTREAME SD
+http://zufreelist.net:8080/aerfv/aerf/26
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png" group-title="CINEMA" tvg-name="JR",SPACE SD
+http://zufreelist.net:8080/aerfv/aerf/30
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="CINEMA" tvg-name="JR",STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/aerfv/aerf/31
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="CINEMA" tvg-name="JR",SYFY
+http://zufreelist.net:8080/aerfv/aerf/32
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="CINEMA" tvg-name="JR",TNT SD
+http://zufreelist.net:8080/aerfv/aerf/33
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK005AnimalPlanet.png" group-title="CULTURA" tvg-name="24h",ANIMAL PLANET SD
+http://zufreelist.net:8080/aerfv/aerf/34
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="CULTURA" tvg-name="24h",DISCOVERY CHANNEL SD
+http://zufreelist.net:8080/aerfv/aerf/35
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK032Discovery.png" group-title="CULTURA" tvg-name="24h",DISCOVERY CHANNEL | HD
+https://teleclub.xyz/tele/canal?tele=DISCOVERY_HD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="CULTURA" tvg-name="24h",DISCOVERY CIVILIZATION SD
+http://zufreelist.net:8080/aerfv/aerf/36
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK230DiscoveryH&H.png" group-title="CULTURA" tvg-name="24h",DISCOVERY H&H SD
+http://zufreelist.net:8080/aerfv/aerf/37
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcXyNyaDZcTPii3VJJF1FClBbTwEf1p-1VA&usqp=CAU" group-title="CULTURA" tvg-name="24h",DISCOVERY H&H |HD
+https://teleclub.xyz/tele/canal?tele=DHYH_HD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK033DiscoveryScience.png" group-title="CULTURA" tvg-name="24h",DISCOVERY SCIENCE SD
+http://zufreelist.net:8080/aerfv/aerf/38
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/RO/RO087DiscoveryScienceHD.png" group-title="CULTURA" tvg-name="24h",DISCOVERY SCIENCE | HD
+https://teleclub.xyz/tele/canal?tele=DSCIENCES_HD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR141DiscoveryTheaterSD.png" group-title="CULTURA" tvg-name="24h",DISCOVERY THEATHER SD
+http://zufreelist.net:8080/aerfv/aerf/39
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="https://www.pngkey.com/png/full/252-2529722_discovery-hd-theater-discovery-channel.png" group-title="CULTURA" tvg-name="24h",DISCOVERY THEATHER | HD
+https://teleclub.xyz/tele/canal?tele=DTHEATER_HD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK176DiscoveryTurbo.png" group-title="CULTURA" tvg-name="24h",DISCOVERY TURBO SD
+http://zufreelist.net:8080/aerfv/aerf/40
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" group-title="CULTURA" tvg-name="24h",Discovery World SD
+http://redcoliptv.com:8090/Diego/Diego2020/2136
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png" group-title="CULTURA" tvg-name="24h",Discovery World | HD
+https://teleclub.xyz/tele/canal?tele=DWORLD_HD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="https://lh3.googleusercontent.com/proxy/yQpHRHIxBOtEz_owQNt6JWHCCVmh-YQTQxJv1FFqmWdBCGDOu3Op8vf93pVg-QQua1ZZeoWXTFevTOhe_XYYxsXtxWG0nXYgR1ACQQ" group-title="CULTURA" tvg-name="24h", Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY-HD.png" group-title="CULTURA" tvg-name="24h",HISTORY SD
+http://zufreelist.net:8080/aerfv/aerf/42
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA143HISTORIO.png" group-title="CULTURA" tvg-name="24h",HISTORY | HD
+https://teleclub.xyz/tele/canal?tele=HISTORY_HD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR184H2FHD.png" group-title="CULTURA" tvg-name="24h",H2 SD
+http://zufreelist.net:8080/aerfv/aerf/41
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051%20ID-HD.png" group-title="CULTURA" tvg-name="24h",ID SD
+http://zufreelist.net:8080/aerfv/aerf/43
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="CULTURA" tvg-name="24h",NAT GEO SD
+http://zufreelist.net:8080/aerfv/aerf/44
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US130NATGEOWILD.png" group-title="CULTURA" tvg-name="24h",NATGEO WILD SD
+http://zufreelist.net:8080/aerfv/aerf/45
+
+#EXTINF:-1 tvg-id="" tvg-id="24Horas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US075TLC-HD.png" group-title="CULTURA" tvg-name="24h",TLC SD
+http://zufreelist.net:8080/aerfv/aerf/46
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="ENTRETENIMIENTO" tvg-name="JR",GALAVISION
+http://zufreelist.net:8080/aerfv/aerf/48
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ENTRETENIMIENTO" tvg-name="JR",ANTENA3 SD
+http://zufreelist.net:8080/aerfv/aerf/49
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA135AZMAS.png" group-title="ENTRETENIMIENTO" tvg-name="JR",AZ MUNDO SD
+http://zufreelist.net:8080/aerfv/aerf/50
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR208COMEDYCENTRALHD.png" group-title="ENTRETENIMIENTO" tvg-name="JR",COMEDY CENTRAL HD
+http://zufreelist.net:8080/aerfv/aerf/51
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="ENTRETENIMIENTO" tvg-name="JR",DHE SD
+http://zufreelist.net:8080/aerfv/aerf/52
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="ENTRETENIMIENTO" tvg-name="JR",DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/aerfv/aerf/53
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US030E!.png" group-title="ENTRETENIMIENTO" tvg-name="JR",E! SD
+http://zufreelist.net:8080/aerfv/aerf/54
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="ENTRETENIMIENTO" tvg-name="JR",EL GOURMET SD
+http://zufreelist.net:8080/aerfv/aerf/55
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ENTRETENIMIENTO" tvg-name="JR",ESTRELLA TV
+http://zufreelist.net:8080/aerfv/aerf/65
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ENTRETENIMIENTO" tvg-name="JR",FASHION ONE SD
+http://zufreelist.net:8080/aerfv/aerf/56
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="ENTRETENIMIENTO" tvg-name="JR",FILM & ARTS SD
+http://zufreelist.net:8080/aerfv/aerf/57
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR160FoodNetworkFHD.png" group-title="ENTRETENIMIENTO" tvg-name="JR",FOOD NETWORK TP MX
+http://zufreelist.net:8080/aerfv/aerf/58
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="ENTRETENIMIENTO" tvg-name="JR",HOLA !TV SD
+http://zufreelist.net:8080/aerfv/aerf/59
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL070LifetimeHD.png" group-title="ENTRETENIMIENTO" tvg-name="JR",LIFE TIME SD
+http://zufreelist.net:8080/aerfv/aerf/60
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ENTRETENIMIENTO" tvg-name="JR",MAS CHIC SD
+http://zufreelist.net:8080/aerfv/aerf/61
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/TLnovelas2019.png" group-title="ENTRETENIMIENTO" tvg-name="JR",TL NOVELAS TP MX
+http://zufreelist.net:8080/aerfv/aerf/62
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/340?cb=20200320185458" group-title="ENTRETENIMIENTO" tvg-name="JR",UNICABLE TP MX
+http://zufreelist.net:8080/aerfv/aerf/63
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL188FOXLIFE.png" group-title="ENTRETENIMIENTO" tvg-name="JR",FOX LIFE TP MX
+http://zufreelist.net:8080/aerfv/aerf/64
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL188FOXLIFE.png" group-title="ENTRETENIMIENTO" tvg-name="JR",FOX LIFE
+http://zufreelist.net:8080/aerfv/aerf/66
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Garage_TV_2007.png/revision/latest/scale-to-width-down/340?cb=20200309141618" group-title="ENTRETENIMIENTO" tvg-name="JR",GarageTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR085BABYTV.png" group-title="ISRG" tvg-name="JR",Baby TV
+http://zufreelist.net:8080/aerfv/aerf/80
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20190713193648" group-title="ISRG" tvg-name="JR",BITME 
+http://zufreelist.net:8080/aerfv/aerf/89
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US789BOOMERANGHD.png" group-title="ISRG" tvg-name="JR",Boomerang
+http://zufreelist.net:8080/aerfv/aerf/81
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR137DiscoveryKidsSD.png" group-title="ISRG" tvg-name="JR",Discovery Kids SD
+http://zufreelist.net:8080/aerfv/aerf/82
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="ISRG" tvg-name="JR",Disney JR SD
+http://zufreelist.net:8080/aerfv/aerf/84
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="ISRG" tvg-name="JR",Disney SD
+http://zufreelist.net:8080/aerfv/aerf/83
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="ISRG" tvg-name="JR",Disney XD SD
+http://zufreelist.net:8080/aerfv/aerf/85
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR210NatGeoKidsFHD.png" group-title="ISRG" tvg-name="JR",Nat Geo Kids SD
+http://zufreelist.net:8080/aerfv/aerf/86
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK169NickJr.png" group-title="ISRG" tvg-name="JR",Nick Jr SD
+http://zufreelist.net:8080/aerfv/aerf/87
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="ISRG" tvg-name="JR",Nickelodeon SD
+http://zufreelist.net:8080/aerfv/aerf/88
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA103Tooncast.png" group-title="ISRG" tvg-name="JR",TOONCAST TP MX
+http://zufreelist.net:8080/aerfv/aerf/90
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="ISRG" tvg-name="JR",Cachipum tv | HD
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="SERIES" tvg-name="JR",A&E SD
+http://zufreelist.net:8080/aerfv/aerf/67
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Atreseries.png/618px-Atreseries.png" group-title="SERIES" tvg-name="JR",A3SERIES
+http://zufreelist.net:8080/aerfv/aerf/68
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="SERIES" tvg-name="JR",AXN SD
+http://zufreelist.net:8080/aerfv/aerf/69
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://www.cableman.ru/sites/default/files/eurochannel_0.jpg?1527331141" group-title="SERIES" tvg-name="JR",EURO Channel SD
+http://zufreelist.net:8080/aerfv/aerf/70
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US382FOX_WPMT.png" group-title="SERIES" tvg-name="JR",FOX SD 
+http://zufreelist.net:8080/aerfv/aerf/71
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="SERIES" tvg-name="JR",FX Movies SD
+http://zufreelist.net:8080/aerfv/aerf/72
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="SERIES" tvg-name="JR",FX SD
+http://zufreelist.net:8080/aerfv/aerf/73
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="SERIES" tvg-name="JR",FXM TP MX
+http://zufreelist.net:8080/aerfv/aerf/74
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK137SonyChannel.png" group-title="SERIES" tvg-name="JR",SONY SD
+http://zufreelist.net:8080/aerfv/aerf/76
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="SERIES" tvg-name="JR",TNT SERIES
+http://zufreelist.net:8080/aerfv/aerf/77
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE068UniversalDE.png" group-title="SERIES" tvg-name="JR",UNIVERSAL TV SD
+http://zufreelist.net:8080/aerfv/aerf/78
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR332Warnertv.png" group-title="SERIES" tvg-name="JR",WARNER SD
+http://zufreelist.net:8080/aerfv/aerf/79
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR326NBATVFHD.png" group-title="DEPORTES" tvg-name="JR", NBA TV
+http://localdblagent.club:8080/October25/October25/2345
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png" group-title="DEPORTES" tvg-name="JR", BEIN LA LIGA 1 HD
+http://redcoliptv.com:8090/Diego/Diego2020/3120
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://forounivers.com/uploads/monthly_2020_10/large.musictop2020.png.99d94848bab42ba81b3432050a46eb0f.png" group-title="Music" tvg-name="JR",Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/-L33TeJVLMjCtiuO9U3-wKZonE12OzbkGXVZp6KQuZTmI_CbdTHoE40HfqSff7XePCl2" group-title="Music" tvg-name="JR", Music Latinos UP*
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png" group-title="Music" tvg-name="JR",Latinos UP
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Music" tvg-name="JR",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/320px-Retro_Music_TV_logo.png" group-title="Music" tvg-name="JR",RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOt0kOhbe4_LfvRK5_13evZWNakD5WOd3nRg&usqp=CAU" group-title="Music" tvg-name="JR",HTV
+https://teleclub.xyz/tele/canal?tele=HTV_SD&format=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png" group-title="Music" tvg-name="JR",MTV
+https://teleclub.xyz/tele/canal?tele=MTV_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Music" tvg-name="JR",PHTV (RD)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GNoA1fHtLGY/XsC-sFOKBZI/AAAAAAAAviM/uO7BSvpoCBU_At8yMHF5ElYD7lirNYfzgCLcBGAsYHQ/s200/Hits360.png" group-title="Music" tvg-name="JR",Hits360 (RD)
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI--T47nHxASyeL3CSBJntn1I2npLn8Zd-nA&usqp=CAU" group-title="PRUEBAS" tvg-name="JR",DW
+https://www.youtube.com/watch?v=bKpGAHgpYoU
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI--T47nHxASyeL3CSBJntn1I2npLn8Zd-nA&usqp=CAU" group-title="PRUEBAS" tvg-name="JR",4K Nature
+https://www.youtube.com/watch?v=P7d1H83IcjE
